@@ -17,7 +17,7 @@ Education
 
 **Utah Tech University**, St. George, UT, United States  
 **B.S. in Software Engineering** — *Expected May 2026*  
-GPA: **3.5 / 4.0**
+GPA: **3.55 / 4.0**
 
 **Relevant Coursework:**  
 Machine Learning, Artificial Intelligence, Internet of Things Programming,  
@@ -30,24 +30,21 @@ Research Experience
 
 **AeroSense — Research Assistant**  
 *Utah Tech University, Department of Electrical and Computer Engineering*  
-*2025 – Present*  
+*Sep 2025 – Present*  
 Advisors: Dr. Bing Jiang, Dr. Milan Pantovic  
 
-- Contributing to interdisciplinary research involving sensing systems and data-driven analysis  
-- Developing software components and analytical workflows for experimental and sensor data  
-- Collaborating with faculty and student researchers on system design, testing, and validation  
-- Preparing research outputs for poster presentations and conference submissions  
+- Developing a cross-platform mobile application using React Native to interface with a custom metabolic analyzer mask
+- Implementing Bluetooth communication between the mobile app and sensors for real-time data transfer
+- Designing and integrating machine learning models classify human activity using a six-axis sensor
+- Managing data pipelines for sensor acquisition, preprocessing, and visualization within the mobile application
 
 **Herpetofauna Conservation — Research Assistant**  
 *Utah Tech University, Department of Biology*  
-*2025*  
+*Jan 2025 - Aug 2025*  
 Advisors: Dr. Ren Quinn, Dr. Megen Kepas  
 
-- Conducted computational and data-driven analysis for ecological conservation research  
-- Assisted in collection, cleaning, and interpretation of biological field data  
-- Integrated software tools into biological research workflows  
-- Produced research outcomes resulting in poster presentations and abstract submissions  
-
+- Analyzed deceased herpetofauna records in Utah using Pandas, generating visualizations with Matplotlib to identify patterns in species mortality
+- Retrieved, cleaned, and interpreted data from the iNaturalist API for research applications
 ---
 
 Professional Experience
@@ -64,7 +61,7 @@ Professional Experience
 
 ---
 
-Posters & Publications
+Posters
 ======
 
 - **Nov 2025** — *AeroSense*  
@@ -82,14 +79,14 @@ Posters & Publications
 Selected Projects
 ======
 
-**JobHunterAI** — *Fall 2026*  
+**[JobHunterAI](https://github.com/gisela-codes/AI-fall25/tree/main/project#jobhunterai)** — *Fall 2026*  
 - Designed an LLM-powered automation system to streamline job application workflows  
 - Implemented tool-calling agents for resume generation, tracking, and document management  
 - Integrated browser automation and cloud APIs for job metadata management  
 
 *Technologies:* SmolAgents, LLM Tool Calling, Chrome DevTools MCP, Google Sheets API, Google Drive API, Pandoc  
 
-**Metabolic Time-Series Dashboard** — *Fall 2026*  
+**[Metabolic Time-Series Dashboard](https://github.com/gisela-codes/VO2-Dashboard?tab=readme-ov-file#deployed-page)** — *Fall 2026*  
 - Built an interactive dashboard for physiological and environmental time-series data  
 - Processed VO Master data including heart rate, VO₂, and atmospheric variables  
 - Developed dynamic, interactive visualizations  
@@ -104,13 +101,7 @@ Selected Projects
 *Model:* MobileNetV2  
 *Technologies:* Python, TensorFlow, Pandas, Matplotlib  
 
-**Sentiment Analysis of Elon Musk’s Tweets** — *Fall 2024*  
-- Analyzed sentiment trends using NLP techniques  
-- Visualized temporal sentiment patterns  
-
-*Technologies:* Python, Pandas, Matplotlib, vaderSentiment, X API  
-
-**IoT Wearable & iOS App for Basal Body Temperature Tracking** — *Fall 2024*  
+**[IoT Wearable & iOS App for Basal Body Temperature Tracking](https://github.com/gisela-codes/IoT-bbt-tracker?tab=readme-ov-file#thermatrack)** — *Fall 2024*  
 - Designed a cost-effective IoT wearable paired with an iOS application  
 - Implemented Bluetooth Low Energy (BLE) communication between sensors and app  
 
